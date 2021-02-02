@@ -14,6 +14,7 @@ var users = []models.User{
 		Email:     "aleks@gmail.com",
 		Phone:     "08182432388",
 		Bio:       "An introvert, software Developer",
+		Gender:    "M",
 		Password:  "password",
 	},
 	models.User{
@@ -22,6 +23,7 @@ var users = []models.User{
 		Email:     "snow@gmail.com",
 		Phone:     "27002983999",
 		Bio:       "An extrovert, software Developer",
+		Gender:    "F",
 		Password:  "password",
 	},
 }
